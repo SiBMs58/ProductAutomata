@@ -1,0 +1,5 @@
+# ninja log v5
+1	102	1683028231082103015	build.ninja	1a5a76a65bf69625
+9	2785	1682336556890484861	CMakeFiles/Productautomaat.dir/DFA.cpp.o	7c644e8ec5d3de5a
+10	596	1682334726771487077	CMakeFiles/Productautomaat.dir/main.cpp.o	68e0cb99064bc3c
+2786	2879	1682336556993185293	Productautomaat	d8828f0af52a0a44
